@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638174098834285808
-    m_Hash: 2151742790
+      ticks: 638174101557976195
+    m_Hash: 2841887073
   m_LockFileStatus:
     m_FilePath: C:/Users/user/Desktop/2D-Platform-Basic/2D-Platform(Basic)/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638174098834335667
-    m_Hash: 3531555088
+      ticks: 638174101557986166
+    m_Hash: 1180411959
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
